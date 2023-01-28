@@ -5,7 +5,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React Native 
-- 📫 How to reach me: pratu.b.pawar@outlook.com
+- 📫 How to reach me: pratiksha.b.pawar@outlook.com
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love art. 
 
