@@ -20,8 +20,6 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratu-pawar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pratiksha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pratu-pawar)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratu-pawar&show_icons=true&count_private=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/pratu-pawar)  
